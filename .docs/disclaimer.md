@@ -1,5 +1,3 @@
-<!-- https://github.com/Zeronetsec/Muxly -->
-
 # DISCLAIMER
 ## **Version 0.1 (Experimental Status)**
 This tool is currently in its early **v0.1** stage and is considered **unstable**. </br>
@@ -45,5 +43,3 @@ It is strongly recommended to create backups before using this tool.
 
 ## Notes
 This tool is not affiliated with the official Termux project and is provided "as is", without warranties of any kind.
-
-<!-- Copyright (c) 2026 Zeronetsec -->
