@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Muxly
+# https://github.com/Senzdetta/Muxly
 
 module Variable
     def Config = "#{ENV['HOME']}/.config/muxly/config.conf".freeze
@@ -20,4 +20,4 @@ module Variable
     )
 end
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

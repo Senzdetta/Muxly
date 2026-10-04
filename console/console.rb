@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Muxly
+# https://github.com/Senzdetta/Muxly
 
 require 'utils/missing_argument'
 require 'utils/invalid_option'
@@ -52,4 +52,4 @@ module Console
     end
 end
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Muxly
+# https://github.com/Senzdetta/Muxly
 
 require 'utils/color'
 
@@ -6,8 +6,8 @@ module Version
     def self.execute(*)
         name = "Muxly".freeze
         version = "v0.1.04102026".freeze
-        creator = "Zeronetsec".freeze
-        homepage = "https://github.com/Zeronetsec/Muxly".freeze
+        creator = "Senzdetta".freeze
+        homepage = "https://github.com/Senzdetta/Muxly".freeze
 
         printf(
             "%sName: %s%s%s\n",
@@ -31,4 +31,4 @@ module Version
     end
 end
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Muxly
+# https://github.com/Senzdetta/Muxly
 
 require 'utils/color'
 
@@ -40,4 +40,4 @@ module ListThemes
     end
 end
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

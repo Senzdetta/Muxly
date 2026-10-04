@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Muxly
+# https://github.com/Senzdetta/Muxly
 
 require 'utils/variable'
 
@@ -20,4 +20,4 @@ module Cspace
     end
 end
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

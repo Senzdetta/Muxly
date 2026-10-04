@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# https://github.com/Zeronetsec/Muxly
+# https://github.com/Senzdetta/Muxly
 
 set -o errexit
 
@@ -41,4 +41,4 @@ __INJECT__
 command apt autoclean -y
 command apt autoremove -y
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

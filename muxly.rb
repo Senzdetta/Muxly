@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-# https://github.com/Zeronetsec/Muxly
+# https://github.com/Senzdetta/Muxly
 
 $LOAD_PATH.unshift(
     File.expand_path(__dir__),
@@ -8,4 +8,4 @@ $LOAD_PATH.unshift(
 require 'console/console'
 Console.run(ARGV)
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

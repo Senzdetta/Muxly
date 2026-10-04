@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# https://github.com/Zeronetsec/Muxly
+# https://github.com/Senzdetta/Muxly
 
 set -o errexit
 
@@ -22,4 +22,4 @@ command rm -fv "${fullpath}"
 
 echo -e "\x1b[1;34m[*] \x1b[0mRootfs: \x1b[0;32m${distro} \x1b[0msuccessfully installed"
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

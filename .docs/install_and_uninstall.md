@@ -7,7 +7,7 @@
 
 ### Usage
 ```bash
-git clone https://github.com/Zeronetsec/Muxly
+git clone https://github.com/Senzdetta/Muxly
 bash Muxly/install.sh <option>
 ```
 
