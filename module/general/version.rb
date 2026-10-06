@@ -6,12 +6,12 @@ module Version
     def self.execute(*)
         name = "Muxly".freeze
         version = "v0.1.06102026".freeze
-        creator = "Senzdetta".freeze
+        developer = "Senzdetta".freeze
         homepage = "https://github.com/Senzdetta/Muxly".freeze
 
         printf(
-            "%sName: %s%s%s\n",
-            Color.N, Color.GG, name, Color.N,
+            "%s- %s%s %s-%s\n",
+            Color.DG, Color.GG, name, Color.DG, Color.N,
         )
 
         printf(
@@ -20,8 +20,8 @@ module Version
         )
 
         printf(
-            "%sCreator: %s%s%s\n",
-            Color.N, Color.GG, creator, Color.N,
+            "%sDeveloper: %s%s%s\n",
+            Color.N, Color.GG, developer, Color.N,
         )
 
         printf(
