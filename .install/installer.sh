@@ -1,4 +1,6 @@
 function install::installer() {
+    install::extern::setShebang
+
     local tprop="${HOME}/.termux/termux.properties"
     local tfont="${HOME}/.termux/font.ttf"
     local tth="${HOME}/.termux/colors.properties"

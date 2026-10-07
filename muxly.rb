@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby
+{{ shebang::ruby }}
 # https://github.com/Senzdetta/Muxly
 
 $LOAD_PATH.unshift(

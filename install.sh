@@ -41,6 +41,7 @@ include : '(
     .install/extern/android_check
     .install/extern/pip_inpackages
     .install/extern/privdat
+    .install/extern/set_shebang
 )'
 
 HOME="${HOME}"

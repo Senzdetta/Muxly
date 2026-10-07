@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+{{ shebang::bash }}
 # https://github.com/Senzdetta/Muxly
 
 set -o errexit
