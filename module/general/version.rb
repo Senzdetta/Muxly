@@ -5,7 +5,7 @@ require 'utils/color'
 module Version
     def self.execute(*)
         name = "Muxly".freeze
-        version = "v0.1.06102026".freeze
+        version = "v0.1.07102026".freeze
         developer = "Senzdetta".freeze
         homepage = "https://github.com/Senzdetta/Muxly".freeze
 

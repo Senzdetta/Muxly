@@ -9,7 +9,7 @@ function install::extern::pipInpackages() {
         return ${code}
     }
 
-    command mapfile -t packages < <(
+    builtin mapfile -t packages < <(
         command cat "${root}/.install/extern/python_packages.txt"
     )
 
