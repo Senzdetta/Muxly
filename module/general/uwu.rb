@@ -12,6 +12,7 @@ module Uwu
             "(=^･ω･^=)",
         ]
 
+        fixface = "(・ω・)"
         delay = 0.2
         duration = 5
 
@@ -35,8 +36,10 @@ module Uwu
                 sleep(delay)
             end
         end
-        printf("\x1b[?25h")
-        printf("\n")
+        printf(
+            "\r%s\x1b[K\x1b[?25h\n",
+            fixface,
+        )
     end
 end
 
